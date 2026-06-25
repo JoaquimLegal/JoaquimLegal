@@ -1,53 +1,94 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/125841328?v=4" width="140" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/JoaquimLegal/Glascoss/main/logo_glascoss.png" width="80" alt="logo"/>
 </p>
 
 <h1 align="center">JoaquimLegal</h1>
 
 <p align="center">
-  <em>Developer — Discord, automation, Minecraft modding</em>
+  <a href="https://github.com/JoaquimLegal/Glascoss">Glascoss</a>
 </p>
 
----
+<br>
 
-## About
+<table align="center">
+<tr>
+<td align="center" width="900">
 
-I build tools and mods that bridge platforms and automate workflows. Discord bots, cross-platform chat sync, AI integration, and Minecraft modding with real language models.
+I build tools that connect platforms and push game mechanics in unexpected directions. Currently working on **Glascoss**, a Minecraft mod that puts an LLM inside the game — the AI sees the world, talks through chat, and executes commands in real time.
 
----
+</td>
+</tr>
+</table>
 
-## Projects
+<br>
+
+<h2 align="center">Projects</h2>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Glascoss
-AI-powered Minecraft mod (Fabric 1.20.1). Google Gemini integration with tool system, customizable personalities, persistent memory, and trust tracking. The AI builds, teleports, gives items, and interacts with the world based on chat input.
-<br>
-[Repository](https://github.com/JoaquimLegal/Glascoss)
+**AI-powered Minecraft mod** · Fabric 1.20.1
+
+Google Gemini integration with tool execution, persistent memory, customizable personalities, trust tracking, two-pass error recovery, and full localization.
+
+Built on Fabric with Mixins, Google GenAI SDK, and Minecraft's native rendering pipeline.
+
+→ [Repository](https://github.com/JoaquimLegal/Glascoss)
+
+</td>
+<td width="50%" valign="top">
 
 ### VelaBot
-Cross-server message synchronization platform for Discord. Real-time relay, automated moderation, role-based access control.
-<br>
-[Repository](https://github.com/JoaquimLegal/V.e.l.a-Discord-bot-)
+**Discord message sync platform**
+
+Cross-server message relay with real-time propagation, automated moderation pipelines, and role-based access control. Scalable architecture for large communities.
+
+Built with TypeScript, Node.js, and PostgreSQL.
+
+→ [Repository](https://github.com/JoaquimLegal/V.e.l.a-Discord-bot-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Discord-and-Telegram-Sync
-Bidirectional chat bridge with full media, reply, and deletion support between Discord and Telegram.
-<br>
-[Repository](https://github.com/JoaquimLegal/Discord-and-Telegram-Sync-)
+**Cross-platform chat bridge**
+
+Bidirectional message synchronization between Discord and Telegram with support for media, replies, threaded conversations, and deletion events.
+
+→ [Repository](https://github.com/JoaquimLegal/Discord-and-Telegram-Sync-)
+
+</td>
+<td width="50%" valign="top">
 
 ### PyCharacterAI
-Modular chatbot framework with plugin architecture and multi-platform support (Discord, Telegram, Web).
+**Modular chatbot framework**
+
+Plugin-based architecture with multi-platform backends (Discord, Telegram, Web). Designed for extensibility with NLP integration points.
+
+→ [Repository](https://github.com/JoaquimLegal/PyCharacterAI---Template)
+
+</td>
+</tr>
+</table>
+
 <br>
-[Repository](https://github.com/JoaquimLegal/PyCharacterAI---Template)
 
----
-
-## Stack
+<h2 align="center">Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,django,flask,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,gcp,azure,git,github,actions,linux,nginx,grafana,prometheus" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,django,flask,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,github,actions,linux,nginx&perline=10" alt="Tech Stack"/>
 </p>
 
----
+<br>
+
+<hr>
 
 <p align="center">
-  <em>JoaquimLegal</em>
+  <sub>JoaquimLegal</sub>
 </p>
