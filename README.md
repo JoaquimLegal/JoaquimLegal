@@ -1,7 +1,7 @@
 <h1 align="center">JoaquimLegal</h1>
 
 <p align="center">
-  Hey, I'm JoaquimLegal or *GoldenChalk9757*. I build things — from the completely unnecessary to the borderline professional.
+  Hey, I'm JoaquimLegal  I build things — from the completely unnecessary to the borderline professional.
 </p>
 
 <br>
